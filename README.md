@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanlft&show_icons=true&bg_color=ff000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanlft&show_icons=true&bg_color=ff000010)
 
 
 <!--

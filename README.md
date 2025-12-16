@@ -1,4 +1,5 @@
-![stefanlft's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanlft&show_icons=true&theme=shadow_red)
+![stefanlft's Stats](https://github-readme-stats.vercel.app/api?username=stefanlft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![stefanlft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanlft&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
